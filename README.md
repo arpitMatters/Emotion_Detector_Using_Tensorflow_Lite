@@ -1,1 +1,1 @@
-# Emotion_Detector_Using_Tensorflow_Lite
+A flutter project using Google's Teachable Model TFlite to detect emotions.
